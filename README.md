@@ -1,8 +1,7 @@
 ### Olá Mundo, eu sou o João 👋
 
-- 🔭 Atualmente não estou trabalhando na área de tecnologia
-- 🌱 Estudando JS e Java
-- 👯 Estou procurando um estágio na área de Desenvolvimento
+- 🔭 Trabalhando atualmente como Dev Mobile na PIQL-OAIS
+- 🌱 Estudando Flutter
 - 📫 Contato: joaogs05@hotmail.com
 
 <div> 
