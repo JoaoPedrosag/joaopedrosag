@@ -1,7 +1,7 @@
 ### Olá Mundo, eu sou o João 👋
 
-- 🔭 Trabalhando atualmente como Dev Mobile e Product Owner na PIQL-OAIS
-- 🌱 Estudando Flutter
+- 🔭 Trabalhando atualmente como Dev Mobile e Product Owner na OAIS
+- 🌱 Dev Flutter
 - 📫 Contato: joaogs05@hotmail.com
 
 <div> 
