@@ -2,7 +2,7 @@
 
 - 🔭 Trabalhando atualmente como Dev Mobile e Product Owner na OAIS
 - 🌱 Dev Flutter
-- 📫 Contato: joaogs05@hotmail.com
+- 📫 Contato: https://joaopedrosag.github.io/link-tree/
 
 <div> 
   <a href="https://instagram.com/joaopedrosag" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
