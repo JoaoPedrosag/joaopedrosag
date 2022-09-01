@@ -30,6 +30,9 @@
   <img align="center" alt="Gusta-NodeJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   <img align="center" alt="Gusta-Flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"/>
   <img align="center" alt="Gusta-Dart" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" /> 
+  <img  src=https://komarev.com/ghpvc/?username=JoaoPedrosag alt=JoaoPedroSag /> 
+ 
+
 </div>
 
 
