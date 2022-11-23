@@ -1,7 +1,7 @@
 ### Olá Mundo, eu sou o João 👋
 
-- 🔭 Trabalhando atualmente como Dev Mobile e Product Owner na OAIS
-- 🌱 Dev Flutter
+- 🔭 Trabalhando atualmente como Dev Full Stack
+- 🌱 TypeScript, PHP, Flutter, Dart, MYSQLl, MONGO...
 - 📫 Contato: https://joaopedrosag.github.io/link-tree/
 
 <div> 
