@@ -1,7 +1,7 @@
 ### Olá Mundo, eu sou o João 👋
 
 - 🔭 Trabalhando atualmente como Dev Full Stack
-- 🌱 TypeScript, PHP, Flutter, Dart, MYSQLl, MONGO...
+- 🌱 TypeScript, PHP, Flutter, Dart, MYSQL, MONGO...
 - 📫 Contato: https://joaopedrosag.github.io/link-tree/
 
 <div> 
