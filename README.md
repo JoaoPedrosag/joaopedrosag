@@ -17,10 +17,6 @@
 --> Acadêmico de Ciência da Computação|Unesc|
 
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaopedrosag&theme=dark&layout=compact)
-<img align="left" width="450px" alt="JoaoPedrosag Github Stats" src="https://github-readme-stats.vercel.app/api?username=JoaoPedrosag&theme=dark&show_icons=false&hide_border=true" />
-
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Joao-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
